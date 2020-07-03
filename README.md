@@ -133,6 +133,8 @@ e-mail: nanxunrobin@naver.com
 ```python
 a, b = map(str, input().split())
 print(b, a)
+```
+
 =======
 ---
   title : "Who is 노승욱?" 
