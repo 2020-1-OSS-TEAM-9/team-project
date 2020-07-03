@@ -18,7 +18,12 @@
     + 학과: 글로벌소프트웨어학과  
     + GitHub: [https://github.com/leesueyeon](https://github.com/leesueyeon)  
     + e-mail: wkdals0105@naver.com    
-    
+ 
++ 조남훈
+    + 학교: 선문대학교
+    + 학과: 글로벌소프트웨어학과
+    + Github: [https://github.com/Namhoon-Cho](https://github.com/Namhoon-Cho)
+    + e-mail: nanxunrobin@naver.com
     
 ### 개인 홈페이지  
 
