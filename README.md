@@ -23,7 +23,6 @@
 #### **여기는 이수연의** _Homepage_  
 ##### **1.기본 정보**  
 
-![선문대학교](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStnpPtnSD0uExG_Xpe9wbaqaPDkYqXQ6rN_A&usqp=CAU)  
 **이름:** 이수연  
 **email:** wkdals0105@naver.com  
 **학교:** 선문대학교   
