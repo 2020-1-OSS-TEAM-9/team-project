@@ -113,8 +113,8 @@ print("Hello, World!")
 이름: *조남훈*  
 학교: 선문대학교  
 학과: 글로벌소프트웨어학과  
-e-mail: nanxunrobin@naver.com
-    >**_No Pain, No Gain!_**
+e-mail: nanxunrobin@naver.com  
+    > **_No Pain, No Gain!_**
 
 ##### **2.Future Works**  
 
