@@ -126,8 +126,8 @@ e-mail: nanxunrobin@naver.com
 
 **+alpha**
 - if COVID-19 situation is gone
-    - Have a trip to Hulhumale, Maldives!
-[Hulhumale beach](https://www.traveltomtom.net/images/nieuwe_indeling/artikels/maldives/hulhumale_travel_guide/hulhumale_beach_3.jpg)
+    - Have a trip to Hulhumale, Maldives
+ ![Hulhumale beach](https://www.traveltomtom.net/images/nieuwe_indeling/artikels/maldives/hulhumale_travel_guide/hulhumale_beach_3.jpg)
 
 ##### **3.Python code**
 ```python
