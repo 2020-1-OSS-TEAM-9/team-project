@@ -18,7 +18,12 @@
     + 학과: 글로벌소프트웨어학과  
     + GitHub: [https://github.com/leesueyeon](https://github.com/leesueyeon)  
     + e-mail: wkdals0105@naver.com    
-    
+ 
++ 조남훈
+    + 학교: 선문대학교
+    + 학과: 글로벌소프트웨어학과
+    + Github: [https://github.com/Namhoon-Cho](https://github.com/Namhoon-Cho)
+    + e-mail: nanxunrobin@naver.com
     
 ### 개인 홈페이지  
 
@@ -101,6 +106,34 @@ print("Hello, World!")
 프로그래밍 분야에서 인정받는 전문가 지금부터 차근차근이 준비해서 돌아보고 나면 스스로가 인정 할 만할   
 능력을 가진 사람이 되고 싶다.
 
+### **조남훈의 개인 홈페이지**
+
+##### **1.Profile**  
+
+이름: *조남훈*  
+학교: 선문대학교  
+학과: 글로벌소프트웨어학과  
+e-mail: nanxunrobin@naver.com  
+  > **_"No Pain, No Gain!"_**
+
+##### **2.Future Works**  
+
+| To-Do | Summary |   
+|:---:|:---:|
+| 1학기 복습 | 하루 30분씩 자바 실습 |   
+| 토익 | 정규 TOEIC 860점 이상으로 올리기 |   
+| 생활 습관 | 1회 30분, 주 3회 이상 운동하기 |
+
+**+alpha**
+- if COVID-19 situation is gone
+    - Have a trip to Hulhumale, Maldives  
+ ![Hulhumale beach](https://www.traveltomtom.net/images/nieuwe_indeling/artikels/maldives/hulhumale_travel_guide/hulhumale_beach_3.jpg)
+
+##### **3.Python code**
+```python
+a, b = map(str, input().split())
+print(b, a)
+=======
 ---
   title : "Who is 노승욱?" 
 
@@ -153,4 +186,3 @@ student of AI Software Engineering <br/>
 | 수상내역 | 기간  |수상 | 설명 |
 | :---------:|:---------:|:-----------------------------:|:---------:|
 |![](https://github.com/tmddnr712/bootstrap/blob/master/%EC%84%9C%EC%9A%B8%EA%B5%AD%EC%A0%9C%EB%B0%9C%EB%AA%85%EC%A0%84%EC%8B%9C%ED%9A%8C.PNG?raw=true)<br/>SIIF 서울국제발명전시회|2018.12.6 ~ 2018.12.9 |동상|IDLE STOP & GO, SUPER CAPACITY를 이용한 배터리 효율 증가 및 보호|
-
