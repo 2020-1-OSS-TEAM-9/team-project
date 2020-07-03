@@ -100,3 +100,57 @@ print("Hello, World!")
 **-미래-**  
 프로그래밍 분야에서 인정받는 전문가 지금부터 차근차근이 준비해서 돌아보고 나면 스스로가 인정 할 만할   
 능력을 가진 사람이 되고 싶다.
+
+---
+  title : "Who is 노승욱?" 
+
+  categories : 
+       노승욱
+   
+  description : "노승욱은 누구인가?"
+
+  toc : True
+
+toc_label : "목차"
+
+tags : 
+       who_are_we?
+
+   last_modified_at : 2020-06-17
+
+---
+
+# Who is 노승욱?
+![](https://github.com/tmddnr712/bootstrap/blob/master/%EB%85%B8%EC%8A%B9%EC%9A%B1.png?raw=true)
+<br/>
+student of AI Software Engineering <br/>
+<br/>
+<br/>
+<br/>
+
+### 소개
+
+* Github : [https://github.com/tmddnr712](https://github.com/tmddnr712)
+* instargram : [u_.__._k](https://www.instagram.com/u_.__._k/)
+* Mail : nsu712@gmail.com
+
+### 자격증
+
+| 자격증명 | 취득일자  | 발급기관 |
+| :---------:|:---------:|:---------:|
+|![](https://github.com/tmddnr712/bootstrap/blob/master/%EC%BA%90%EB%93%9C.PNG?raw=true)<br/>ATC AutoCAD 2급  | 2018.7.23    | 한국ATC센터  |
+|![](https://github.com/tmddnr712/bootstrap/blob/master/SOLIDWORKS%20Mechanical%20Design%20ate%20the%20level%20of%20ASSOCIATE.PNG?raw=true)<br/>SOLIDWORKS Mechanical Design ate the level of ASSOCIATE  | 2018.8.6   | DASSAULT SYSTEMS |
+|![](https://github.com/tmddnr712/bootstrap/blob/master/SOLIDWORKS%20Mechnical%20Design%20ate%20the%20level%20of%20PROFESSIONAL.PNG?raw=true)<br/>SOLIDWORKS Mechnical Design ate the level of PROFESSIONAL  | 2019.3.27    | DASSAULT SYSTEMS  |
+|![](https://github.com/tmddnr712/bootstrap/blob/master/3DEXPERIENCE%20Associate%20-%20CATIA%20Mechnical%20Design%20Essentials%20at%20the%20level%20of%20Associate.PNG?raw=true)<br/>ATC 3DEXPERIENCE Associate - CATIA Mechnical Design Essentials at the level of Associate  | 2018.10.12    | DASSAULT SYSTEMS  |
+|![](https://github.com/tmddnr712/bootstrap/blob/master/CATIA%20V5%20Associate%20-%20Part%20Design.PNG?raw=true)<br/>ATC CATIA V5 Associate - Part Design  | 2018.8.24    | DASSAULT SYSTEMS  |
+|![](https://github.com/tmddnr712/bootstrap/blob/master/CATIA%20V5%20Associate%20-%20Assembly%20Design.PNG?raw=true)<br/>CATIA V5 Associate - Assembly Design  | 2019.2.1    | DASSAULT SYSTEMS  |
+|![](https://github.com/tmddnr712/bootstrap/blob/master/CATIA%20V5%20Mechanical%20Designer%20Specialist.PNG?raw=true)<br/>CATIA V5 Mechanical Designer Specialist  | 2019.2.1    | DASSAULT SYSTEMS  |
+| 컴퓨터응용선반기능사  | 2014.10.00    | 한국산업인력공단  |
+| 컴퓨터응용밀링기능사  | 2014.10.00    | 한국산업인력공단  |
+
+### 수상내역 
+
+| 수상내역 | 기간  |수상 | 설명 |
+| :---------:|:---------:|:-----------------------------:|:---------:|
+|![](https://github.com/tmddnr712/bootstrap/blob/master/%EC%84%9C%EC%9A%B8%EA%B5%AD%EC%A0%9C%EB%B0%9C%EB%AA%85%EC%A0%84%EC%8B%9C%ED%9A%8C.PNG?raw=true)<br/>SIIF 서울국제발명전시회|2018.12.6 ~ 2018.12.9 |동상|IDLE STOP & GO, SUPER CAPACITY를 이용한 배터리 효율 증가 및 보호|
+
